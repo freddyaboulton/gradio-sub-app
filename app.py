@@ -20,7 +20,6 @@ with block:
     btn = gr.Button("Generate")
     btn.click(dream, inputs=prompt, outputs=[gallery, contains_nfsw])
 
-gradio_app = gr.routes.App.create_app(block)
 
-app = gr.mount_gradio_app(app, gradio_app, "localhost", "7869", "/gradio")
+app = gr.mount_gradio_app(app, block, "/gradio")
 app.mount("/", StaticFiles(directory="static", html=True), name="static")
