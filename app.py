@@ -10,7 +10,7 @@ def print_foo():
     print("FOO!!!")
 
 def dream(prompt):
-    return ["lion.jpg"] * 2, {}
+    return ["static/lion.jpg"] * 2, {}
 
 block = gr.Blocks().queue()
 with block:
