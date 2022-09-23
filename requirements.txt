@@ -1,1 +1,1 @@
-https://gradio-builds.s3.amazonaws.com/a42838982e0ce621be9292b61cb3bcc5a9ae8f7e/gradio-3.3.1-py3-none-any.whl
+https://gradio-builds.s3.amazonaws.com/20aaffed4b31b59a500320d619c12154628d0492/gradio-3.3.1-py3-none-any.whl
