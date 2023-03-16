@@ -1,1 +1,1 @@
-https://gradio-builds.s3.amazonaws.com/new-ws-url/attempt-2/gradio-3.19.1-py3-none-any.whl
+https://gradio-builds.s3.amazonaws.com/8017cd6f38ff9993dc6f257818ca2eafa1e09e7d/gradio-3.21.0-py3-none-any.whl
