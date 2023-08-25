@@ -1,1 +1,1 @@
-pip install https://gradio-builds.s3.amazonaws.com/7a75948e7d4721fe4be141336f2a4f61a44906b5/gradio-3.41.0-py3-none-any.whl
+https://gradio-builds.s3.amazonaws.com/7a75948e7d4721fe4be141336f2a4f61a44906b5/gradio-3.41.0-py3-none-any.whl
